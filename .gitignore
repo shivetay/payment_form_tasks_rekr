@@ -40,6 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+.swc
 
-#Ignore cursor AI rules
-.cursor\rules\codacy.mdc
